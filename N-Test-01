@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Html Playground</title>
+
+        <link rel="stylesheet" type="text/css" href="CSS-Dummy01/CSS-Playground.css" />
+
+    </head>
+
+    <body>
+
+        <nav>
+            Navigation
+        </nav>
+
+        <div class="generic-inline-textbox">
+            test
+        </div>
+
+        <div class="generic-centered-box">
+            Center Box
+        </div>
+
+        <div id="padding-test">
+            Some text
+        </div>
+
+
+    </body>
+</html>
